@@ -1,2 +1,1 @@
 # redis-queues
-Educational project
